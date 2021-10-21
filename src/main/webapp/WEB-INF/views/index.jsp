@@ -22,6 +22,7 @@
     <tr><td><a href="${pageContext.request.contextPath}/manufacturers/add">Create new Manufacturer</a></td></tr>
     <tr><td><a href="${pageContext.request.contextPath}/cars/drivers/add">Add Driver to Car</a></td></tr>
 </table>
-<h3><a href="/logout">Logout</a></h3>
+<h4 class="table_dark">-------------------------------------------</h4>
+<h6 class="table_dark"><a href="/logout">Logout</a></h6>
 </body>
 </html>
